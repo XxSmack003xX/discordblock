@@ -1,3 +1,6 @@
+
+# Discord
+
 0.0.0.0 dis.gd
 0.0.0.0 discord-activities.com
 0.0.0.0 discord.co
